@@ -1,0 +1,6 @@
+mongourl = "mongodb+srv://<username>:<password>@cluster0.l2sue.mongodb.net/bluecoins?retryWrites=true&w=majority"
+mongoport = "27017"
+mongodbname = "bluecoins"
+mongousername = "akshatm"
+mongopass = "admin$123#"
+hostname = "akshatm"

@@ -1,0 +1,12 @@
+[{
+    "accountId": "guid",
+    "accountInfo": {
+        "accountGroup": "BANK", //CASH or VIRTUAL ACCOUNTS,
+        "accountType": "ASSET", // LIABILITY
+        "accountName": ""
+    },
+    "openingDate": 7845855.0,
+    "startingBalance": 12000,
+    "latestBalance": 450,
+    "isDeleted": false
+}]

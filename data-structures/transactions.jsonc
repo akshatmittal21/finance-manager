@@ -1,0 +1,26 @@
+[{
+    "transactionId": "",
+    "transactionName": "",
+    "transactionDate": "",
+    "accountInfo": {
+        "accountId": "",
+        "accountType": "",
+        "accountName": ""
+    },
+    "amount": 0.0,
+    "tags": [],
+    "transactionType": "EXPENSE", //INCOME or TRANSFER,
+    "isAmountReceived": true, //false
+    "transferredToAccountInfo": {
+        "accountName": "",
+        "accountType": "",
+        "accountId": ""
+    },
+    "transferredFromAccountInfo": {
+        "accountName": "",
+        "accountType": "",
+        "accountId": ""
+    },
+    "isDeleted": false
+
+}]

@@ -1,0 +1,10 @@
+[{
+    "categoryId": "guid",
+    "categoryInfo": {
+        "categoryGroup": "ENTERTAINMENT", //CAR 
+        "categoryType": "EXPENSE", // INCOME
+        "categoryName": ""
+    },
+
+    "isDeleted": false
+}]
